@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="250" viewBox="0 0 495 250">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f1f14"/><stop offset="1" stop-color="#08120c"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4ade80"/><stop offset="1" stop-color="#a3e635"/></linearGradient>
+<clipPath id="bar"><rect x="30" y="140" width="435" height="10" rx="5"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="494" height="249" rx="14" fill="url(#bg)" stroke="#4ade80" stroke-opacity="0.35"/>
+<g transform="translate(453,34) scale(1.3)" fill="#4ade80"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="30" y="42" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" fill="#f0fdf4">Hackercat-git on GitHub</text>
+<rect x="30" y="54" width="46" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="30" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f0fdf4">1</text>
+<text x="30" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Repos</text>
+<text x="180" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f0fdf4">1</text>
+<text x="180" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Stars</text>
+<text x="330" y="98" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#f0fdf4">0</text>
+<text x="330" y="118" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Forks</text>
+<text x="30" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Languages</text>
+<g clip-path="url(#bar)">
+<rect x="30" y="140" width="435" height="10" fill="#0f1f14"/>
+<rect x="30.0" y="140" width="435.0" height="10" fill="#3178c6"/>
+</g>
+<g transform="translate(36,174) scale(0.55)" fill="#3178c6"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
+<text x="48" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Python 100%</text>
+<text x="481" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#86efac" text-anchor="end" opacity="0.6">purrfile</text>
+</svg>
