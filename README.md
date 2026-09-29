@@ -84,7 +84,7 @@ Running a personal Proxmox cluster with 18 active containers — Discord bots, r
 Actively learning offensive and defensive security through hands-on platforms.
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-hackergamercat-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackergamercat)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB-9FEF00?logo=hackthebox&logoColor=black)](https://profile.hackthebox.com)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB-9FEF00?logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e7899-bae8-71d2-8992-5435a945c201)
 
 **Working toward:** CompTIA Security+ &nbsp;·&nbsp; Network+ &nbsp;·&nbsp; CEH
 
