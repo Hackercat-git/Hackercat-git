@@ -86,7 +86,7 @@ Actively learning offensive and defensive security through hands-on platforms.
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-hackergamercat-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackergamercat)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB-9FEF00?logo=hackthebox&logoColor=black)](https://profile.hackthebox.com)
 
-Working toward: CompTIA Security+ · Network+ · CEH
+**Working toward:** CompTIA Security+ &nbsp;·&nbsp; Network+ &nbsp;·&nbsp; CEH
 
 ---
 
