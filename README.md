@@ -40,6 +40,9 @@ Turns nmap scan output into clean, readable HTML reports.
 ### 🎨 [Catscii](https://github.com/Hackercat-git/Catscii)
 Turn any image into ASCII art — multiple styles, optional color output, HTML export.
 
+### 🐾 [Scratchpad](https://github.com/Hackercat-git/Scratchpad)
+Personal Flipper Zero collection — BadUSB payloads, SubGHz captures, NFC dumps, IR signals, and Python tools to work with them.
+
 ---
 
 ## 🧰 Tech Stack
