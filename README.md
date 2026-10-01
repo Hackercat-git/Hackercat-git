@@ -37,6 +37,9 @@ Personal status dashboard for Proxmox homelab clusters.
 ### 🕵️ [Pawprint](https://github.com/Hackercat-git/Pawprint)
 Turns nmap scan output into clean, readable HTML reports.
 
+### 🎨 [Catscii](https://github.com/Hackercat-git/Catscii)
+Turn any image into ASCII art — multiple styles, optional color output, HTML export.
+
 ---
 
 ## 🧰 Tech Stack
