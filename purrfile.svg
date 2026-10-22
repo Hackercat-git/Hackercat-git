@@ -18,15 +18,12 @@
 <text x="30" y="128" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Languages</text>
 <g clip-path="url(#bar)">
 <rect x="30" y="140" width="435" height="10" fill="#0f1f14"/>
-<rect x="30.00" y="140" width="338.33" height="10" fill="#4ade80"/>
-<rect x="368.33" y="140" width="48.33" height="10" fill="#a3e635"/>
-<rect x="416.67" y="140" width="48.33" height="10" fill="#34d399"/>
+<rect x="30.00" y="140" width="386.67" height="10" fill="#4ade80"/>
+<rect x="416.67" y="140" width="48.33" height="10" fill="#a3e635"/>
 </g>
 <g transform="translate(36,174) scale(0.55)" fill="#4ade80"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
-<text x="48" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Python 78%</text>
+<text x="48" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">Python 89%</text>
 <g transform="translate(186,174) scale(0.55)" fill="#a3e635"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
-<text x="198" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">HTML 11%</text>
-<g transform="translate(336,174) scale(0.55)" fill="#34d399"><ellipse cx="0" cy="6" rx="6.5" ry="5.5"/><ellipse cx="-6.5" cy="-2.5" rx="2.4" ry="3"/><ellipse cx="-2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="2.5" cy="-6.5" rx="2.4" ry="3"/><ellipse cx="6.5" cy="-2.5" rx="2.4" ry="3"/></g>
-<text x="348" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">JavaScript 11%</text>
-<text x="481" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#86efac" text-anchor="end" opacity="0.6">purrfile · 21 Oct 2026</text>
+<text x="198" y="178" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#86efac">JavaScript 11%</text>
+<text x="481" y="238" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#86efac" text-anchor="end" opacity="0.6">purrfile · 22 Oct 2026</text>
 </svg>
