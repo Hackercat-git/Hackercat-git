@@ -10,6 +10,8 @@ and growing [ByteBellSoftware](https://github.com/ByteBellSoftware) into somethi
 [![Website](https://img.shields.io/badge/Website-hackercat.bytebellsoftware.nl-blue?logo=firefox&logoColor=white)](https://hackercat.bytebellsoftware.nl/)
 [![Discord](https://img.shields.io/badge/Discord-hackercat10-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1052551483851288687)
 [![ByteBellSoftware](https://img.shields.io/badge/Org-ByteBellSoftware-black?logo=github)](https://github.com/ByteBellSoftware)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hacker--cat-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hacker-cat-b54983452/)
+[![Writeups](https://img.shields.io/badge/Writeups-HackIndex-9FEF00)](https://hackindex.io/authors/hackercat)
 
 </div>
 
@@ -76,18 +78,16 @@ Personal Flipper Zero collection — BadUSB payloads, SubGHz captures, NFC dumps
 
 ## 🖥️ Homelab
 
-Running a personal Proxmox cluster with 18 active containers — Discord bots, reverse proxies, local AI inference, monitoring, and more.
+Running a personal Proxmox homelab to learn virtualization, networking and self-hosting — Discord bots, local AI inference, monitoring, and more.
 
-![Proxmox](https://img.shields.io/badge/Proxmox-18_containers-E57000?logo=proxmox&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx_Proxy_Manager-reverse_proxy-009639?logo=nginx&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-homelab-E57000?logo=proxmox&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-local_LLM-black)
-![Twingate](https://img.shields.io/badge/Twingate-remote_access-blue)
 
 ---
 
 ## 🔐 Cybersecurity
 
-Actively learning offensive and defensive security through hands-on platforms.
+Actively learning offensive and defensive security through hands-on platforms. Writeups on [HackIndex](https://hackindex.io/authors/hackercat).
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-hackergamercat-212C42?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/hackergamercat)
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-HTB-9FEF00?logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e7899-bae8-71d2-8992-5435a945c201)
